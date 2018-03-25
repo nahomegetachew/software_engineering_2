@@ -3,5 +3,4 @@
 
 1 dicomment program using Event-driven architecture (EDA)   
 2 dictionary program using model view controller architecture(MVC)   
-
-
+### additional explanation found in the programs  README.md files
